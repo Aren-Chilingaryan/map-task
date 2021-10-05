@@ -13,9 +13,10 @@ int main() {
 
 	for (int i = 0; i < size; i++) {
 		for (int j = 0; j < size; j++) {
-			if (i == j)
+			if (i == j) {
 				continue;
-			if (array[i] == array[j]) {
+			}
+			else if (array[i] == array[j]) {
 				count++;
 			}
 		}
@@ -29,5 +30,3 @@ int main() {
 		cout << iter->first << " = " << iter->second << endl;
 	}
 }
-
-
