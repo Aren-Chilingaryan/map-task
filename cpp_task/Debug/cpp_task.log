@@ -1,0 +1,3 @@
+﻿  cpp_task.cpp
+C:\Users\shiti\OneDrive\Desktop\Visual studio tasks\cpp_task\cpp_task\cpp_task.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cpp_task.vcxproj -> C:\Users\shiti\OneDrive\Desktop\Visual studio tasks\cpp_task\Debug\cpp_task.exe
